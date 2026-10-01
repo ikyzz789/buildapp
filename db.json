@@ -1,7 +1,0 @@
-{ 
-    users: {}, 
-    queue: [], 
-    building: [], 
-    stats: { success: 0, failed: 0 },
-    webUsers: {} 
-}
